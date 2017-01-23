@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define string message for login screen-->
+    <string name="email_format_incorrect">Địa chỉ email không đúng định dạng</string>
+    <string name="password_format_incorrect">Mật khẩu phải nhiều hơn 6 kí tự</string>
+
+    <!-- Define string message for examination appointment screen-->
+    <string name="accept_appointment_ok">Lịch hẹn khám đã duyệt thành </string>
+    <string name="accept_appointment_fail">Lịch hẹn khám đã duyệtcông thất bại</string>
+    <string name="cancel_appointment_ok">Lịch hẹn khám đã huỷ thành công</string>
+    <string name="cancel_appointment_fail">Lịch hẹn khám đã huỷ thất bại</string>
+    <string name="change_appointment_ok">Lịch hẹn khám đã đổi thành công</string>
+    <string name="change_appointment_fail">Lịch hẹn khám đã đổi thất bại</string>
+    <string name="update_doctor_note_ok">Gửi ghi chú của bác sĩ thành công</string>
+
+    <!-- Define title for dialog error message-->
+    <string name="title_login">Đăng nhập</string>
+    <string name="title_forget_pass">Yêu cầu mật khẩu mới</string>
+    <string name="title_appointment_list">Danh sách cuộc hẹn</string>
+    <string name="title_appointment_accept">Đồng ý cuộc hẹn</string>
+    <string name="title_appointment_change">Đổi cuộc hẹn</string>
+    <string name="title_appointment_cancel">Hủy cuộc hẹn</string>
+    <string name="title_appointment_detailview">Chi tiết cuộc hẹn</string>
+    <string name="title_appointment_update_doctor_note">Chi tiết cuộc hẹn</string>
+    <string name="title_clinic_address_list">Địa chỉ phòng khám</string>
+    <string name="title_comments_list">Nhận xét đánh giá</string>
+    <string name="title_info_statistic">Thông tin thống kê</string>
+    <string name="title_patient_list">Danh sách bệnh nhân</string>
+    <string name="title_patient_ban">Chặn bệnh nhân</string>
+    <string name="title_patient_notban">Bỏ chặn bệnh nhân</string>
+    <string name="title_schedule_list">Danh sách lịch khám</string>
+    <string name="title_schedule_create">Tạo lịch khám</string>
+    <string name="title_schedule_update">Sửa lịch khám</string>
+    <string name="title_schedule_delete">Xóa lịch khám</string>
+    <string name="title_schedule_view">Chi tiết lịch khám</string>
+</resources>

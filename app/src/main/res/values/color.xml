@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!-- Define common color -->
+        <color name="black">#000000</color>
+        <color name="white">#FFFFFF</color>
+        <color name="blue">#0000FF</color>
+        <color name="red">#ff0000</color>
+        <color name="gray_bg">#eae8de</color>
+        <color name="gray_button_disable">#E5E9EA</color>
+        <color name="purple_bg">#6737a7</color>
+        <color name="purple_text">#6737a7</color>
+        <color name="purple_button">#350077</color>
+        <color name="purple_light">#1B0C23</color>
+        <color name="purple_top_light">#32174C</color>
+        <color name="purple_separate">#33164C</color>
+        <color name="aqua_text">#7ba1ab</color>
+        <color name="aqua_bg">#F2F6F7</color>
+
+        <!-- Define the background header color -->
+        <color name="header_background_color">#3694eb</color>
+
+        <!-- Define the menu item background color-->
+        <color name="menu_item_background_color">#2e374e</color>
+        <color name="menu_item_selected_background_color">#0066b3</color>
+
+        <!-- Define separator menu item background-->
+        <color name="menu_item_separator_above_background_color">#1c212f</color>
+        <color name="menu_item_separator_below_background_color">#444d64</color>
+        <!-- Define separator on footer -->
+        <color name="footer_item_separator_background_color">#dcdcdc</color>
+
+        <!-- Define the main background-->
+        <color name="main_background_color">#f4f4f4</color>
+
+        <!-- Define highlight for time of calendar-->
+        <color name="calendar_time_highlight_color">#276baa</color>
+
+        <!--Color for layout selector-->
+        <color name="item_color_normal">#00000000</color>
+        <color name="item_color_pressed">#40000000</color>
+        
+        <!-- Define home item bottom-->
+        <color name="home_item_bottom_separator_above">#b3b3b3</color>
+        <color name="home_item_bottom_separator_middle">#c3c3c3</color>
+        <color name="home_item_bottom_separator_below">#e4e4e4</color>
+        <!-- Define carousel backgroud-->
+        <color name="carousel_background">#888888</color>
+        <color name="notify_background">#576486</color>
+
+        <!-- Define the text color for textview -->
+        <color name="textview_color_default">#04262f</color>
+        <color name="textview_color_showtime">#f2f6f7</color>
+        <color name="textview_color_grey">#bebebe</color>
+        <color name="textview_color_highlight">#0065b3</color>
+        <color name="textview_color_highlight_tab">#1565b0</color>
+        <color name="textview_color_light_grey">#666666</color>
+
+        <!-- Define the text color for textview -->
+        <color name="app_background_startendcolor">#065dae</color>
+        <color name="app_background_centercolor">#3694e7</color>
+        <color name="login_button_background">#03529c</color>
+        
+        <!-- Define text color for patient detail-->
+        <color name="textview_color_patient_detail_order_count">#3bc000</color>
+        <color name="textview_color_patient_detail_cancel_count">#e30300</color>
+        <color name="textview_color_patient_detail_change_count">#3694eb</color>
+        <color name="textview_color_patient_detail_comment_count">#ff8a00</color>
+    </resources>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyCare</string>
+    <string name="app_slogan">New healthcare experience</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_fail_msg">Đăng nhập thất bại.</string>
+
+    <!-- Define string for menu-->
+    <string name="menu_test_user">Test User</string>
+    <string name="menu_message_management">Quản lý tin nhắn</string>
+    <string name="menu_dating_management">Quản lý hẹn khám</string>
+    <string name="menu_calendar_creating">Tạo lịch khám</string>
+    <string name="menu_doctor_list">Danh sách bác sĩ</string>
+    <string name="menu_patient_list">Danh sách bệnh nhân</string>
+    <string name="menu_comment">Nhận xét và đánh giá</string>
+    <string name="menu_exit">Thoát</string>
+
+    <!-- Define string for home-->
+    <string name="home_dating_management">Quản lý hẹn khám</string>
+    <string name="home_calendar_creating">Tạo lịch khám</string>
+    <string name="home_patient_list">Danh sách bệnh nhân</string>
+    <string name="home_statistic">Thống kê</string>
+
+    <!-- Define string for comment screen-->
+    <string name="comment_patient_management">Quản lý bệnh nhân</string>
+    <string name="comment_comment">Nhận xét và đánh giá</string>
+    <string name="comment_common_idea">Cảm nhận chung</string>
+    <string name="comment_assets">Cơ sở vật chất</string>
+    <string name="comment_waiting_time">Thời gian chờ</string>
+    <string name="comment_display">Hiển thị</string>
+    <string name="comment_no_display">Bỏ hiển thị</string>
+    <string name="comment_load_more">Xem thêm</string>
+    
+    <!-- Define string for statistic screen-->
+    <string name="statistic_common_info">Thông tin chung</string>
+    <string name="statistic_detail_info">Xem thông tin chi tiết</string>
+    <string name="statistic_order_count">Số lượng đã đặt</string>
+    <string name="statistic_waiting_dating">Chờ duyệt đặt khám</string>
+    <string name="statistic_user_comment">Đánh giá của người dùng</string>
+    <string name="statistic_common_comment">Đánh giá chung</string>
+    <string name="statistic_comment_count">Số lượt người đánh giá</string>
+    <string name="statistic_rate_average">Điểm Rate trung bình</string>
+    <string name="statistic_waiting_comment">Đánh giá thời gian chờ</string>
+    <string name="statistic_asset_comment">Đánh giá cơ sở vật chất</string>
+    <string name="statistic_see_more">( Xem )</string>
+    
+    <!-- Define string for patient_list screen-->
+    <string name="patient_list">Danh sách bệnh nhân</string>
+    <string name="patient_list_patient">Bệnh nhân</string>
+    <string name="patient_list_blacklist">Blacklist</string>
+    <string name="patient_list_block">Chặn</string>
+    <string name="patient_list_unblock">Bỏ chặn</string>
+    <string name="patient_list_datings">Các cuộc hẹn</string>
+
+    <!-- Define string for dating_list screen-->
+    <string name="appointment_list">Quản lý lịch hẹn khám</string>
+    <string name="appointment_list_waiting">Chờ duyệt</string>
+    <string name="appointment_list_approved">Đã duyệt</string>
+    <string name="appointment_list_cancel">Hủy</string>
+    <string name="appointment_list_appointment_code">Mã cuộc hẹn</string>
+    <string name="appointment_list_patient_name">Tên bệnh nhân</string>
+    <string name="appointment_list_search">Tìm kiếm</string>
+    <string name="appointment_list_calendar_change">Đổi lịch</string>
+    <string name="appointment_list_accept">Đồng ý</string>
+    <string name="appointment_list_accept_ok">Chấp nhận</string>
+    <string name="appointment_status_waiting">Chờ hẹn khám</string>
+    <string name="appointment_status_approved">Chấp nhận khám</string>
+    <string name="appointment_status_cancel">Hủy khám</string>
+    <string name="appointment_status_missing">Quá hẹn khám</string>
+    <string name="appointment_list_grid">Lưới</string>
+    <string name="appointment_list_list">Danh sách</string>
+    <string name="appointment_list_empty">Trống</string>
+    <string name="appointment_list_waiting_for_confirmed">Chờ xác nhận</string>
+    <string name="appointment_list_confirmed">Đã xác nhận</string>
+    <string name="appointment_list_treated">Đã khám</string>
+    
+    <!-- Define string for dating_detail screen-->
+    <string name="appointment_detail">Chi tiết cuộc hẹn khám</string>
+    <string name="appointment_detail_appointment_info">Thông tin cuộc hẹn</string>
+    <string name="appointment_detail_day">Ngày</string>
+    <string name="appointment_detail_dating_code">Mã cuộc hẹn</string>
+    <string name="appointment_detail_location">Địa điểm</string>
+    <string name="appointment_detail_person_in_date">Người hẹn</string>
+    <string name="appointment_detail_treat_reason">Lý do khám</string>
+    <string name="appointment_detail_info_of_person_in_treat">Thông tin người khám</string>
+    <string name="appointment_detail_name">Họ tên</string>
+    <string name="appointment_detail_gender">Giới tính</string>
+    <string name="appointment_detail_phone">Điện thoại</string>
+    <string name="appointment_detail_email">Email</string>
+    <string name="appointment_detail_date_creating">Ngày tạo hẹn</string>
+    <string name="appointment_detail_status">Trạng thái</string>
+    <string name="appointment_detail_extra_info">Thông tin thêm</string>
+    <string name="appointment_detail_hint_of_doctor">Chú thích b.sĩ</string>
+    <string name="appointment_detail_save">Lưu</string>
+
+    <!-- Define string for appointment detail for a patient screen-->
+    <string name="appointment_for_a_patient">Quản lý hẹn khám</string>
+
+    <!-- Define string for footer-->
+    <string name="footer_copyright">Copyright ©2014 by SSGROUP</string>
+    <string name="footer_privacy_policy">Chính sách bảo mật</string>
+    <string name="footer_term_of_use">Điều khoản sử dụng</string>
+    <string name="footer_full_version">Xem bản đầy đủ</string>
+    <string name="footer_for_doctor">Dành cho bác sĩ</string>
+    <string name="footer_for_easycare">Dành cho phòng khám</string>
+    
+    <!-- Define string for login screen-->
+    <string name="username">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="signin">ĐĂNG NHẬP</string>
+    <string name="forget_password">Quên mật khẩu?</string>
+
+    <!-- Define string for patient detail-->
+    <string name="patient_detail">Thông tin chi tiết bệnh nhân</string>
+    <string name="patient_detail_order_count">Số lần đặt khám</string>
+    <string name="patient_detail_cancel_count">Số lần hủy</string>
+    <string name="patient_detail_change_count">Số lần chuyển lịch</string>
+    <string name="patient_detail_commen_count">Số lần đánh giá</string>
+
+    <!-- Define string time range screen-->
+    <string name="time_range">Chọn khoảng thời gian</string>
+    <string name="time_range_day">Ngày</string>
+    <string name="time_range_average_time">Thời gian khám trung bình</string>
+    <string name="time_range_minute">phút</string>
+    <string name="time_range_office_address">Địa chỉ phòng khám</string>
+    <string name="time_range_comment">Chú thích</string>
+    <string name="time_range_cancel">HỦY</string>
+    <string name="time_range_save">LƯU LẠI</string>
+    <string name="time_range_delete">XÓA</string>
+    <!-- Define string for forget password screen-->
+    <string name="submit">Gửi</string>
+    <string name="forget_password_title">Quên mật khẩu</string>
+    <string name="forget_password_instruction">Nhập địa chỉ email để nhận lại mật khẩu mới</string>
+    <string name="forget_password_message_ok">Mật khẩu mới đã gửi thành công</string>
+    <string name="forget_password_message_fail">Mật khẩu mới đã gửi thất bi</string>
+    <!-- Define string for change password screen-->
+    <string name="confirmed_password">Xác nhận mật khẩu</string>ạ
+    <string name="change_password_instruction">Nhập mật khẩu mới</string>
+
+    <!-- Define string for loading dialog-->
+    <string name="loading_dialog_in_progress">Đang thực hiện...</string>
+    <string name="empty_data">Không tìm thấy dữ liệu.</string>
+
+    <!-- Define string for patient detail screen-->
+    <string name="nothing_data">Không có</string>
+    <string name="first_visit">Lần đầu tới khám</string>
+    <string name="gender_man">Nam</string>
+    <string name="gender_women">Nữ</string>
+
+    <!-- Define string for doctor management screen-->
+    <string name="doctor_management">Quản lý bác sĩ</string>
+    <string name="messages_management">Quản lý tin nhắn</string>
+    <string name="doctor_text">Bác sĩ</string>
+    <string name="doctor_appointment_management">Quản lý hẹn khám</string>
+    <string name="doctor_calendar_management">Quản lý lịch khám</string>
+
+    <!-- Define string for message confirm, error-->
+    <string name="message_title">Thông báo</string>
+    <string name="message_inform_schedule_create_succeed">Tạo lịch khám thành công</string>
+    <string name="message_inform_schedule_create_fail">Tạo lịch khám thất bại</string>
+    <string name="message_inform_schedule_update_succeed">Cập nhật lịch khám thành công</string>
+    <string name="message_inform_schedule_update_fail">Cập nhật lịch khám thất bại</string>
+    <string name="message_inform_schedule_delete_succeed">Xóa lịch khám thành công</string>
+    <string name="message_inform_schedule_delete_fail">Xóa lịch khám thất bại</string>
+    <string name="message_inform_schedule_get_fail">Lấy lịch khám thất bại</string>
+    <string name="message_inform_ban_succeed">Chặn thành công</string>
+    <string name="message_inform_ban_fail">Chặn thất bại</string>
+    <string name="message_inform_unban_succeed">Bỏ chặn thành công</string>
+    <string name="message_inform_unban_fail">Bỏ chặn thất bại</string>
+    <string name="message_inform_appointment_change_succeed">Đổi cuộc hẹn thành công</string>
+    <string name="message_inform_appointment_change_fail">Đổi cuộc hẹn thất bại</string>
+    <string name="message_inform_appointment_cancel_succeed">Hủy cuộc hẹn thành công</string>
+    <string name="message_inform_appointment_cancel_fail">Hủy cuộc hẹn thất bại</string>
+    <string name="message_inform_appointment_accept_succeed">Chấp nhận cuộc hẹn thành công</string>
+    <string name="message_inform_appointment_accept_fail">Chấp nhận cuộc hẹn thất bại</string>
+    <string name="message_inform_doctor_note_update_succeed">Cập nhật chú thích thành công</string>
+    <string name="message_inform_doctor_note_update_fail">Cập nhật chú thích thất bại</string>
+    <!-- Define string array for search criteria-->
+    <string-array name="search_criteria_for_date">
+        <item>Tất cả</item>
+        <item>Hôm nay</item>
+        <item>Tuần này</item>
+        <item>Tháng này</item>
+    </string-array>
+    <string name="view_more">Xem thêm</string>
+    <string name="view_less">Thu gọn</string>
+
+    <string name="sender_text_message">Người gửi: </string>
+    <string name="send_time_text_message">Gửi lúc: </string>
+    <string name="content_text_message">Nội dung: </string>
+    <string name="place_examination_text_message">Đặt khám tới: B.S </string>
+    <string name="department_text_message">Chuyên khoa: </string>
+    <string name="detail_text_message">Chi tiết</string>
+    <string name="delete_text_message">Xóa</string>
+
+
+</resources>
